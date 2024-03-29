@@ -5,3 +5,5 @@ This is a fun project built using pure `PHP`. To run this you need to have MAMP/
 ```
 php -S localhost:8080
 ```
+
+### Have Fun!
