@@ -12,9 +12,9 @@ $minutes = $intervall->i;
 $seconds = $intervall->s;
 ?>
 
-<div class="card text-center rounded-3" style="width: 50%; height: 17rem; margin: auto;">
+<div class="card text-center rounded-3 shadow-lg" style="width: 50%; height: 17rem; margin: auto;">
     <div class="card-body">
-        <h3 class="card-title battambang-black text-decoration-underline">ពេលវេលាខុសគ្នា</h3>
+        <h3 class="card-title battambang-black text-decoration-underline">អាយុពិតរបស់អ្នក</h3>
         <div class="card-body bayon-regular text-primary mt-5" style="font-size: 3rem;">
             <?php
             if ($years > 0) {
