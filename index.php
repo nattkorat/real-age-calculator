@@ -15,7 +15,7 @@
 <body class="bg-light">
     <header class="navbar navbar-expand-md navbar-dark bg-dark">
         <div class="container-fluid d-grid gap-3 align-items-center text-center" style="grid-template-columns: 1fr 2fr;">
-            <h2 class="moul-regular text-light">ការគណនាកាលបរច្ឆេទ</h2>
+            <h2 class="moul-regular text-light">ការគណនាកាលបរិច្ឆេទ</h2>
         </div>
     </header>
     <main class="m-3 text-center">
@@ -23,14 +23,14 @@
             <form action="" method="post">
                 <div class="row align-items-center justify-content-center">
                     <div class="col-5 text-center border border-secondary p-3 m-1 rounded">
-                        <h4 class="card-title battambang-bold">កាលបរច្ឆេទទី ១</h4>
+                        <h4 class="card-title battambang-bold">កាលបរិច្ឆេទទី ១</h4>
                         <label for="date1" class="battambang-regular ">ថ្ងៃខែឆ្នាំ៖ </label>
                         <input type="date" name="date1" id="date1" required>
                         <label for="time1" class="battambang-regular ">ម៉ោង៖ </label>
                         <input type="time" name="time1" id="time1" required>
                     </div>
                     <div class="col-5 text-center border border-secondary p-3 m-1 rounded">
-                        <h4 class="card-title battambang-bold">កាលបរច្ឆេទទី ២</h4>
+                        <h4 class="card-title battambang-bold">កាលបរិច្ឆេទទី ២</h4>
                         <label for="date2" class="battambang-regular ">ថ្ងៃខែឆ្នាំ៖ </label>
                         <input type="date" name="date2" id="date2" required>
                         <label for="time2" class="battambang-regular ">ម៉ោង៖ </label>
